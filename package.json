@@ -1,5 +1,5 @@
 {
-  "name": "nem12-parser",
+  "name": "energy-meter-data-pipeline",
   "version": "0.1.0",
   "description": "Convert NEM12 meter-reading files into PostgreSQL INSERT statements for the meter_readings table.",
   "main": "dist/index.js",
